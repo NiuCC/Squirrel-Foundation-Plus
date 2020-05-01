@@ -10,7 +10,8 @@
 
 ### squirrel-plus概况
 
-squirrel-plus在squirrel-foundation基础上实现状态机配置可视化，让业务节点更专注于业务逻辑的实现。
+squirrel-plus在squirrel-foundation基础上实现状态机配置可视化，让业务节点更专注于业务逻辑的实现。  
+squirrel-foundation开源项目:https://github.com/hekailiang/squirrel
 
 ### 系统架构图
 
